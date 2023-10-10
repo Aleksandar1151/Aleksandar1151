@@ -9,11 +9,14 @@ Explore my repositories, and let's code the future together! 🚀
 <div class="column">
 <div class="row">
 <img align="left" alt="C" title="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="C++" title="C++" width="26px" src="./resources/c-plus-plus_logo.png?raw=true" />
-<img align="left" alt="C#" title="C#" width="23.5px" src="./resources/c-sharp_logo.png?raw=true" />
-<img align="left" alt="Java" title="Java" width="26px" src="./resources/java_logo.png?raw=true" />
-
-<img align="left" alt="Python" title="Python" width="26px" src="./resources/python_logo.svg?raw=true" />
+<img align="left" alt="C++" title="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C#" title="C#" width="23.5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Java" title="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Python" title="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="HTML" title="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="Javascript" title="Javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<div class="row">
 <img align="left" alt="FastAPI" title="FastAPI" width="26px" src="./resources/fast-api_logo.png?raw=true" />
 <img align="left" alt="Django" title="Django" width="20px" src="./resources/django_logo.png?raw=true" />
 <img align="left" alt="Javascript" title="Javascript" width="26px" src="./resources/javascript_logo.png?raw=true" />
