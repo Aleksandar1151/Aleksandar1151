@@ -6,56 +6,51 @@ Explore my repositories, and let's code the future together! 🚀
 
 
 ### 🧰 Languages and Tools
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<div class="column">
+<div class="row">
+<img align="left" alt="C" title="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="C++" title="C++" width="26px" src="./resources/c-plus-plus_logo.png?raw=true" />
+<img align="left" alt="C#" title="C#" width="23.5px" src="./resources/c-sharp_logo.png?raw=true" />
+<img align="left" alt="Java" title="Java" width="26px" src="./resources/java_logo.png?raw=true" />
+
+<img align="left" alt="Python" title="Python" width="26px" src="./resources/python_logo.svg?raw=true" />
+<img align="left" alt="FastAPI" title="FastAPI" width="26px" src="./resources/fast-api_logo.png?raw=true" />
+<img align="left" alt="Django" title="Django" width="20px" src="./resources/django_logo.png?raw=true" />
+<img align="left" alt="Javascript" title="Javascript" width="26px" src="./resources/javascript_logo.png?raw=true" />
+<img align="left" alt="React" title="React" width="26px" src="./resources/react_logo.png?raw=true" />
+<img align="left" alt="MySql" title="MySql" width="26px" src="./resources/mysql_logo.png?raw=true" />
+<img align="left" alt="SQL Server" title="SQL server" width="26px" src="./resources/sql-server_logo.png?raw=true" />
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="26px" src="./resources/postgresql_logo.svg?raw=true" />
+<img align="left" alt="SQLite" title="SQLite" width="26px" src="./resources/sqlite-logo.svg?raw=true" />
+<img align="left" alt="MySql Workbench" title="MySql Workbench" width="26px" src="./resources/mysql_workbench_logo.png?raw=true" />
+<br><br>
+</div>
+<div class="row">
+<img align="left" alt="Visual Studio" title="Visual Studio" width="26px" src="./resources/visual-studio_logo.png?raw=true" />
+<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="./resources/visual-studio-code_logo.png?raw=true" />
+<img align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="26px" src="./resources/IntelliJ-IDEA_logo.png?raw=true" />
+<img align="left" alt="PyCharm" title="PyCharm" width="26px" src="./resources/py-charm_logo.svg?raw=true" />
+<img align="left" alt="Vim" title="Vim" width="26px" src="./resources/vim_logo.svg" />
+<img align="left" alt="Eclipse" title="Eclipse" width="26px" src="./resources/eclipse_logo.png?raw=true" />
+<img align="left" alt="Sublime Text" title="Sublime Text" width="26px" src="./resources/sublime_text_logo.png?raw=true" />
+<img align="left" alt="Wireshark" title="Wireshark" width="26px" src="./resources/wireshark_logo.png?raw=true" /> 
+<img align="left" alt="GNS3" title="GNS3" width="20px" src="./resources/gns3_logo.png?raw=true" /> 
+<img align="left" alt="Eve-ng" title="Eve-ng" width="26px" src="./resources/eve-ng_logo.png?raw=true" />
+<img align="left" alt="Postman" title="Postman" width="26px" src="./resources/postman_logo.png?raw=true" />
+<img align="left" alt="Insomnia" title="Insomnia" width="26px" src="./resources/insomnia_logo.png?raw=true" />
+<img align="left" alt="Yakindu SCT" title="Yakindu SCT" width="26px" src="./resources/yakindu-sct_logo.png?raw=true" />
+<img align="left" alt="Ghidra" title="Ghidra" width="26px" src="./resources/ghidra_logo.svg?raw=true" />
+<br><br>
+</div>
+<div class="row">
+<img align="left" alt="Adobe Photoshop" title="Adobe Photoshop" width="26px" src="./resources/adobe-photoshop_logo.png?raw=true" />
+<img align="left" alt="Adobe Lightroom" title="Adobe Lightroom" width="26px" src="./resources/adobe-lightroom_logo.png?raw=true" />
+<img align="left" alt="Adobe After Effects" title="Adobe After Effects" width="26px" src="./resources/adobe-after-effects_logo.png?raw=true" />
+<img align="left" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" width="26px" src="./resources/adobe-premiere-pro_logo.png?raw=true" />
+<img align="left" alt="Corel DRAW" title="Corel DRAW" width="20px" src="./resources/corel_draw_logo.png?raw=true" />
+</div>
+</div>
+<br><br>
   
 <details>
   <summary><h3>👨‍💻 Aleksandar's Coding Journey</h3></summary>
