@@ -1,7 +1,5 @@
 <h1 align="center">Aleksandar Jovanovic</h1>
 
-**`A passionate backend developer.`**
-
 👋 I'm Aleksandar Jovanovic, a passionate software engineering student at the University of Banja Luka. My journey in the world of programming began in elementary school when I first started coding and even participated in school competitions.
 
 👨‍💻 I've been fortunate to continue exploring the fascinating world of programming under the guidance of my father, who is an experienced programmer. This early exposure to the field ignited my curiosity and nurtured my ambition to delve deeper into software development.
@@ -68,12 +66,7 @@ Feel free to explore my GitHub repositories and join me on this incredible codin
   </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksandar1151&show_icons=true&locale=en&layout=compact" alt="aleksandar1151" /></p>
+<summary><h3>👨‍💻 Aleksandar's Coding Journey</h3></summary>
+aaaaaaa
 
-### 📊 Stats
 
-![Aleksandar's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandar1151&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
