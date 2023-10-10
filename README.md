@@ -1,10 +1,21 @@
-<h1 align="center">Hello there, I'm Aleksandar Jovanovic</h1>
-<h3 align="center">A passionate backend developer.</h3>
+<h1 align="center">Aleksandar Jovanovic</h1>
+**`A passionate backend developer.`**
 
-## Connect with me
+👋 I'm Aleksandar Jovanovic, a passionate software engineering student at the University of Banja Luka. My journey in the world of programming began in elementary school when I first started coding and even participated in school competitions.
+
+👨‍💻 I've been fortunate to continue exploring the fascinating world of programming under the guidance of my father, who is an experienced programmer. This early exposure to the field ignited my curiosity and nurtured my ambition to delve deeper into software development.
+
+📚 Currently, I'm pursuing my degree in software engineering, and I'm excited to be a perpetual student of this ever-evolving field. Alongside my studies, I work as an educator in a private school, where I teach C# and Unity, sharing my knowledge and passion for programming with others.
+
+💡 Throughout my college journey, I've been actively involved in various projects, with a strong focus on backend development. I relish the challenges of creating robust and efficient systems that make a difference.
+
+🌟 I'm constantly driven by my passion for technology and my eagerness to learn new things. I believe that the world of software development is limitless, and I'm excited to continue my journey, pushing boundaries, and making a positive impact with my code.
+
+Feel free to explore my GitHub repositories and join me on this incredible coding adventure! 🚀
 
 
-<h3 align="left">Languages and Tools:</h3>
+
+### 🧰 Languages and Tools
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -57,3 +68,11 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksandar1151&show_icons=true&locale=en&layout=compact" alt="aleksandar1151" /></p>
+
+### 📊 Stats
+
+![Aleksandar's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandar1151&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
