@@ -1,4 +1,5 @@
 <h1 align="center">Aleksandar Jovanovic</h1>
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
 **`A passionate backend developer.`**
 
 👋 I'm Aleksandar Jovanovic, a passionate software engineering student at the University of Banja Luka. My journey in the world of programming began in elementary school when I first started coding and even participated in school competitions.
