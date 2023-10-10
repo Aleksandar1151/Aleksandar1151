@@ -65,8 +65,9 @@ Feel free to explore my GitHub repositories and join me on this incredible codin
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<summary><h3>👨‍💻 Aleksandar's Coding Journey</h3></summary>
-aaaaaaa
+  
+<details>
+  <summary><h3>👨‍💻 Aleksandar's Coding Journey</h3></summary>
+  aaaaaaa
 
 
