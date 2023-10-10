@@ -16,16 +16,15 @@ Explore my repositories, and let's code the future together! 🚀
 <img align="left" alt="HTML" title="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="Javascript" title="Javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  
 <div class="row">
-<img align="left" alt="FastAPI" title="FastAPI" width="26px" src="./resources/fast-api_logo.png?raw=true" />
-<img align="left" alt="Django" title="Django" width="20px" src="./resources/django_logo.png?raw=true" />
-<img align="left" alt="Javascript" title="Javascript" width="26px" src="./resources/javascript_logo.png?raw=true" />
-<img align="left" alt="React" title="React" width="26px" src="./resources/react_logo.png?raw=true" />
-<img align="left" alt="MySql" title="MySql" width="26px" src="./resources/mysql_logo.png?raw=true" />
-<img align="left" alt="SQL Server" title="SQL server" width="26px" src="./resources/sql-server_logo.png?raw=true" />
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="26px" src="./resources/postgresql_logo.svg?raw=true" />
-<img align="left" alt="SQLite" title="SQLite" width="26px" src="./resources/sqlite-logo.svg?raw=true" />
-<img align="left" alt="MySql Workbench" title="MySql Workbench" width="26px" src="./resources/mysql_workbench_logo.png?raw=true" />
+<img align="left" alt="MySql" title="MySql" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="SQL Server" title="SQL server" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+<img align="left" alt="SQLite" title="SQLite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+  </div>
+<div class="row">
+  
+</div>
 <br><br>
 </div>
 <div class="row">
@@ -33,28 +32,14 @@ Explore my repositories, and let's code the future together! 🚀
 <img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="./resources/visual-studio-code_logo.png?raw=true" />
 <img align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="26px" src="./resources/IntelliJ-IDEA_logo.png?raw=true" />
 <img align="left" alt="PyCharm" title="PyCharm" width="26px" src="./resources/py-charm_logo.svg?raw=true" />
-<img align="left" alt="Vim" title="Vim" width="26px" src="./resources/vim_logo.svg" />
 <img align="left" alt="Eclipse" title="Eclipse" width="26px" src="./resources/eclipse_logo.png?raw=true" />
-<img align="left" alt="Sublime Text" title="Sublime Text" width="26px" src="./resources/sublime_text_logo.png?raw=true" />
-<img align="left" alt="Wireshark" title="Wireshark" width="26px" src="./resources/wireshark_logo.png?raw=true" /> 
-<img align="left" alt="GNS3" title="GNS3" width="20px" src="./resources/gns3_logo.png?raw=true" /> 
-<img align="left" alt="Eve-ng" title="Eve-ng" width="26px" src="./resources/eve-ng_logo.png?raw=true" />
+<img align="left" alt="MySql Workbench" title="MySql Workbench" width="26px" src="./resources/mysql_workbench_logo.png?raw=true" />
+<img align="left" alt="Unity" title="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
 <img align="left" alt="Postman" title="Postman" width="26px" src="./resources/postman_logo.png?raw=true" />
-<img align="left" alt="Insomnia" title="Insomnia" width="26px" src="./resources/insomnia_logo.png?raw=true" />
-<img align="left" alt="Yakindu SCT" title="Yakindu SCT" width="26px" src="./resources/yakindu-sct_logo.png?raw=true" />
-<img align="left" alt="Ghidra" title="Ghidra" width="26px" src="./resources/ghidra_logo.svg?raw=true" />
-<br><br>
-</div>
-<div class="row">
-<img align="left" alt="Adobe Photoshop" title="Adobe Photoshop" width="26px" src="./resources/adobe-photoshop_logo.png?raw=true" />
-<img align="left" alt="Adobe Lightroom" title="Adobe Lightroom" width="26px" src="./resources/adobe-lightroom_logo.png?raw=true" />
-<img align="left" alt="Adobe After Effects" title="Adobe After Effects" width="26px" src="./resources/adobe-after-effects_logo.png?raw=true" />
-<img align="left" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" width="26px" src="./resources/adobe-premiere-pro_logo.png?raw=true" />
-<img align="left" alt="Corel DRAW" title="Corel DRAW" width="20px" src="./resources/corel_draw_logo.png?raw=true" />
-</div>
 </div>
 <br><br>
-  
+
+</div>
 <details>
   <summary><h3>👨‍💻 Aleksandar's Coding Journey</h3></summary>
   My journey in the world of programming began in elementary school when I first started coding and even participated in school competitions.
