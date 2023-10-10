@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Aleksandar Jovanovic</h1>
 <h3 align="center">A passionate backend developer.</h3>
 
-#Connect with me
+## Connect with me
 
 
 <h3 align="left">Languages and Tools:</h3>
