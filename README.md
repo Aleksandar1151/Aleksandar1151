@@ -42,9 +42,9 @@ Explore my repositories, and let's code the future together! 🚀
 </div>
 <details>
   <summary><h3>👨‍💻 Aleksandar's Coding Journey</h3></summary>
-  My journey in the world of programming began in elementary school when I first started coding and even participated in school competitions.
+  My journey in the world of programming began in elementary school when I first started coding and participated in school competitions.
 
-  I've been fortunate to continue exploring the fascinating world of programming under the guidance of my father, who is an experienced programmer. This early exposure to the field ignited my curiosity and nurtured my ambition to delve deeper into software development.
+  I've been fortunate to continue exploring the fascinating world of programming under the guidance of my father, who was an experienced programmer. This early exposure to the field ignited my curiosity and nurtured my ambition to delve deeper into software development.
 
   Currently, I'm pursuing my degree in software engineering, and I'm excited to be a perpetual student of this ever-evolving field. Alongside my studies, I work as an educator in a private school, where I teach C# and Unity, sharing my knowledge and passion for programming with others.
 
