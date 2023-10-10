@@ -1,17 +1,8 @@
 <h1 align="center">Aleksandar Jovanovic</h1>
 
-👋 I'm Aleksandar Jovanovic, a passionate software engineering student at the University of Banja Luka. My journey in the world of programming began in elementary school when I first started coding and even participated in school competitions.
+👋 Welcome to my GitHub! I'm Aleksandar Jovanovic, a passionate software engineer with a deep enthusiasm for NET development and AI. I'm on a continuous journey of growth and innovation, pushing the boundaries of technology.
 
-👨‍💻 I've been fortunate to continue exploring the fascinating world of programming under the guidance of my father, who is an experienced programmer. This early exposure to the field ignited my curiosity and nurtured my ambition to delve deeper into software development.
-
-📚 Currently, I'm pursuing my degree in software engineering, and I'm excited to be a perpetual student of this ever-evolving field. Alongside my studies, I work as an educator in a private school, where I teach C# and Unity, sharing my knowledge and passion for programming with others.
-
-💡 Throughout my college journey, I've been actively involved in various projects, with a strong focus on backend development. I relish the challenges of creating robust and efficient systems that make a difference.
-
-🌟 I'm constantly driven by my passion for technology and my eagerness to learn new things. I believe that the world of software development is limitless, and I'm excited to continue my journey, pushing boundaries, and making a positive impact with my code.
-
-Feel free to explore my GitHub repositories and join me on this incredible coding adventure! 🚀
-
+Explore my repositories, and let's code the future together! 🚀
 
 
 ### 🧰 Languages and Tools
@@ -68,6 +59,14 @@ Feel free to explore my GitHub repositories and join me on this incredible codin
   
 <details>
   <summary><h3>👨‍💻 Aleksandar's Coding Journey</h3></summary>
-  aaaaaaa
+  My journey in the world of programming began in elementary school when I first started coding and even participated in school competitions.
+
+  I've been fortunate to continue exploring the fascinating world of programming under the guidance of my father, who is an experienced programmer. This early exposure to the field ignited my curiosity and nurtured my ambition to delve deeper into software development.
+
+  Currently, I'm pursuing my degree in software engineering, and I'm excited to be a perpetual student of this ever-evolving field. Alongside my studies, I work as an educator in a private school, where I teach C# and Unity, sharing my knowledge and passion for programming with others.
+
+  Throughout my college journey, I've been actively involved in various projects, with a strong focus on backend development. I relish the challenges of creating robust and efficient systems that make a difference.
+
+  I'm constantly driven by my passion for technology and my eagerness to learn new things. I believe that the world of software development is limitless, and I'm excited to continue my journey, pushing boundaries, and making a positive impact with my code.
 
 
