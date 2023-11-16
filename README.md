@@ -22,6 +22,7 @@ Explore my repositories, and let's code the future together! 🚀
 <img align="left" alt="SQL Server" title="SQL server" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img align="left" alt="SQLite" title="SQLite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
 
+
 <div class="row">
   
 </div>
@@ -36,6 +37,7 @@ Explore my repositories, and let's code the future together! 🚀
 <img align="left" alt="MySql Workbench" title="MySql Workbench" width="26px" src="./resources/mysql_workbench_logo.png?raw=true" />
 <img align="left" alt="Unity" title="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
 <img align="left" alt="Postman" title="Postman" width="26px" src="./resources/postman_logo.png?raw=true" />
+  
 </div>
 <br><br>
 
