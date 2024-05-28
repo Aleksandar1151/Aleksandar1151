@@ -2,6 +2,8 @@
 
 👋 Welcome to my GitHub! I'm Aleksandar Jovanovic, a passionate software engineer with a deep enthusiasm for NET development and AI. I'm on a continuous journey of growth and innovation, pushing the boundaries of technology.
 
+I work for "NITES", IT development company in Banja Luka, as a Software Developer specializing in .NET.
+
 Explore my repositories, and let's code the future together! 🚀
 
 
