@@ -1,13 +1,13 @@
 <h1 align="center">Aleksandar Jovanovic</h1>
 
-👋 Welcome to my GitHub! I'm Aleksandar Jovanovic, a passionate software engineer with a deep enthusiasm for NET development and AI. I'm on a continuous journey of growth and innovation, pushing the boundaries of technology.
+Welcome to my GitHub! I'm Aleksandar Jovanovic, a passionate software engineer with a deep enthusiasm for NET development and AI. I'm on a continuous journey of growth and innovation, pushing the boundaries of technology.
 
-I work for "NITES", IT development company in Banja Luka, as a Software Developer specializing in .NET.
+I work for "NITES", IT development company in Banja Luka, as a Software Engineer specializing in .NET.
 
-Explore my repositories, and let's code the future together! 🚀
+Explore my repositories, and let's code the future together!
 
 
-### 🧰 Languages and Tools
+### Languages and Tools
 <div class="column">
 <div class="row">
 <img align="left" alt="C" title="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -45,7 +45,7 @@ Explore my repositories, and let's code the future together! 🚀
 
 </div>
 <details>
-  <summary><h3>👨‍💻 Aleksandar's Coding Journey</h3></summary>
+  <summary><h3> Aleksandar's Coding Journey</h3></summary>
   My journey in the world of programming began in elementary school when I first started coding and participated in school competitions.
 
   I've been fortunate to continue exploring the fascinating world of programming under the guidance of my father, who was an experienced programmer. This early exposure to the field ignited my curiosity and nurtured my ambition to delve deeper into software development.
