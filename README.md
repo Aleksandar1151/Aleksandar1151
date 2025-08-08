@@ -1,6 +1,6 @@
 <h1 align="center">Aleksandar Jovanović</h1>
 
-Welcome to my GitHub! I'm Aleksandar Jovanović, a passionate software engineer with a deep enthusiasm for NET development and AI. I'm on a continuous journey of growth and innovation, pushing the boundaries of technology.
+I'm Aleksandar Jovanović, a passionate software engineer with a deep enthusiasm for NET development and AI. I'm on a continuous journey of growth and innovation, pushing the boundaries of technology.
 
 I work for "NITES", IT development company in Banja Luka, as a Software Engineer specializing in .NET.
 
@@ -75,15 +75,19 @@ I work for "NITES", IT development company in Banja Luka, as a Software Engineer
 
 
 <details>
-  <summary><h3> Aleksandar's Coding Journey</h3></summary>
-  My journey in the world of programming began in elementary school when I first started coding and participated in school competitions.
+<summary><h3> Aleksandar's Coding Journey</h3></summary>
+  
+> Make it simple and significant.
+  
+Since I first began coding in elementary school and participated in school competitions, I have been interested in programming.<br>
 
-  I've been fortunate to continue exploring the fascinating world of programming under the guidance of my father, who was an experienced programmer. This early exposure to the field ignited my curiosity and nurtured my ambition to delve deeper into software development.
+I've had the good fortune to learn from my father, who was an experienced programmer. His advice stoked my interest in software development and increased my curiosity.<br>
 
-  Currently, I'm pursuing my degree in software engineering, and I'm excited to be a perpetual student of this ever-evolving field. Alongside my studies, I work as an educator in a private school, where I teach C# and Unity, sharing my knowledge and passion for programming with others.
+With a degree in software engineering, I'm currently focusing on AI and backend development.
+I like the challenge of creating systems that are not only functional but also useful and significant.<br>
 
-  Throughout my college journey, I've been actively involved in various projects, with a strong focus on backend development. I relish the challenges of creating robust and efficient systems that make a difference.
 
-  I'm constantly driven by my passion for technology and my eagerness to learn new things. I believe that the world of software development is limitless, and I'm excited to continue my journey, pushing boundaries, and making a positive impact with my code.
+
+
 
 
