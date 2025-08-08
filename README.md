@@ -1,10 +1,5 @@
 <h1 align="center">Aleksandar Jovanović</h1>
 
-I'm Aleksandar Jovanović, a passionate software engineer with a deep enthusiasm for NET development and AI. I'm on a continuous journey of growth and innovation, pushing the boundaries of technology.
-
-I work for "NITES", IT development company in Banja Luka, as a Software Engineer specializing in .NET.
-
-
 ### Languages and Tools
 
 
@@ -75,9 +70,13 @@ I work for "NITES", IT development company in Banja Luka, as a Software Engineer
 
 
 <details>
-<summary><h3> Aleksandar's Coding Journey</h3></summary>
+<summary><h3> About me</h3></summary>
   
 > Make it simple and significant.
+
+I'm Aleksandar Jovanović, a passionate software engineer with a deep enthusiasm for NET development and AI.
+
+I work for "NITES", IT development company in Banja Luka, as a Software Engineer specializing in .NET.
   
 Since I first began coding in elementary school and participated in school competitions, I have been interested in programming.<br>
 
