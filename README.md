@@ -43,7 +43,9 @@ I work for "NITES", IT development company in Banja Luka, as a Software Engineer
 **DevOps**
 <div class="row">
 <img align="left" alt="Docker" title="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align="left" alt="Kubernetes" title="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+<img align="left" alt="Kubernetes" title="Kubernetes" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+<img align="left" alt="Kubernetes" title="Kubernetes" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rancher/rancher-plain-wordmark.svg" />
+          
           
 <br><br>       
 </div>
