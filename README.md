@@ -1,6 +1,6 @@
-<h1 align="center">Aleksandar Jovanovic</h1>
+<h1 align="center">Aleksandar Jovanović</h1>
 
-Welcome to my GitHub! I'm Aleksandar Jovanovic, a passionate software engineer with a deep enthusiasm for NET development and AI. I'm on a continuous journey of growth and innovation, pushing the boundaries of technology.
+Welcome to my GitHub! I'm Aleksandar Jovanović, a passionate software engineer with a deep enthusiasm for NET development and AI. I'm on a continuous journey of growth and innovation, pushing the boundaries of technology.
 
 I work for "NITES", IT development company in Banja Luka, as a Software Engineer specializing in .NET.
 
@@ -70,7 +70,7 @@ I work for "NITES", IT development company in Banja Luka, as a Software Engineer
 <img align="left" alt="Postman" title="Postman" width="50px" src="./resources/postman_logo.png?raw=true" />
 <img align="left" alt="git" title="git" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="kaggle" title="kaggle" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" />
-<br><br>
+<br><br><br>
 </div>
 
 
