@@ -45,9 +45,7 @@ I work for "NITES", IT development company in Banja Luka, as a Software Engineer
 <img align="left" alt="MySql" title="MySql" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="SQL Server" title="SQL server" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
 <img align="left" alt="SQLite" title="SQLite" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />  
-<img align="left" alt="Oracle" title="Oracle" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-<img align="left" alt="kaggle" title="kaggle" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" />
-          
+<img align="left" alt="Oracle" title="Oracle" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />         
 <br><br><br>      
 </div>
 
@@ -57,8 +55,6 @@ I work for "NITES", IT development company in Banja Luka, as a Software Engineer
 <img align="left" alt="Kubernetes" title="Kubernetes" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" />
 <img align="left" alt="Rancher" title="Rancher" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rancher/rancher-original-wordmark.svg" />
 <img align="left" alt="Linux" title="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-          
-          
 <br><br><br>      
 </div>
 
@@ -73,7 +69,7 @@ I work for "NITES", IT development company in Banja Luka, as a Software Engineer
 <img align="left" alt="Unity" title="Unity" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
 <img align="left" alt="Postman" title="Postman" width="50px" src="./resources/postman_logo.png?raw=true" />
 <img align="left" alt="git" title="git" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
+<img align="left" alt="kaggle" title="kaggle" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" />
 <br><br>
 </div>
 
