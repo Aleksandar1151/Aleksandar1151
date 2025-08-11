@@ -1,5 +1,7 @@
 <h1 align="center">Aleksandar Jovanović</h1>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandar1151&layout=compact)
+
 ### Languages and Tools
 
 
